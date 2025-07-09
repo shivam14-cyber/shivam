@@ -1,5 +1,5 @@
-<<<<<<< HEAD
+
 // add the -form
-=======
 // add the -student
->>>>>>> feature
+
+// add wrong commit
